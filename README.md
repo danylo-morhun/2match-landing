@@ -9,5 +9,6 @@ decision-making for couples, turning it into an enjoyable experience.
 <a href="https://github.com/danylo-morhun/2match">
 <b>Project Repository</b>
 </a>
+</br>
 
 ![2match-how-it-works](https://i.imgur.com/v7ssZQ6.png)
